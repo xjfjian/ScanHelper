@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DevInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>1</Value>
+		<Meaning>ASCII - USA (ISO 2022-6/ISO646)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>2</Value>
+		<Meaning>ISO 2022 Auto</Meaning>
+		<MeaningCh>ISO 2022 自动</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>51</Value>
+		<Meaning>ISO 8859-51 (Western European)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>52</Value>
+		<Meaning>ISO 8859-2</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>53</Value>
+		<Meaning>ISO 8859-3</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>54</Value>
+		<Meaning>ISO 8859-4</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>55</Value>
+		<Meaning>ISO 8859-5</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>56</Value>
+		<Meaning>ISO 8859-6</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>57</Value>
+		<Meaning>ISO 8859-7</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>58</Value>
+		<Meaning>ISO 8859-8</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>59</Value>
+		<Meaning>ISO 8859-9</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>60</Value>
+		<Meaning>ISO 8859-10</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>63</Value>
+		<Meaning>ISO 8859-13</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>64</Value>
+		<Meaning>ISO 8859-14</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>65</Value>
+		<Meaning>ISO 8859-15</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>70</Value>
+		<Meaning>KIO8-U (Ukraine)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>71</Value>
+		<Meaning>KIO8-R (Russian)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>81</Value>
+		<Meaning>ISO 2022-25 (France / Belgium)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>82</Value>
+		<Meaning>ISO 2022-11 (Sweden)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>83</Value>
+		<Meaning>ISO 2022-69 (France / Belgium)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>84</Value>
+		<Meaning>ISO 2022-21 (Germany)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>85</Value>
+		<Meaning>ISO 2022-15 (Italy)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>86</Value>
+		<Meaning>ISO 2022-xx (Switzerland)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>87</Value>
+		<Meaning>ISO 2022-04 (UK)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>88</Value>
+		<Meaning>ISO 2022-xx (Denmark)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>89</Value>
+		<Meaning>ISO 2022-61 (Norway)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>90</Value>
+		<Meaning>ISO 2022-17 (Spain)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>91</Value>
+		<Meaning>ISO 2022-85 (Spain)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>92</Value>
+		<Meaning>ISO 2022-16 (Portuguese)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>93</Value>
+		<Meaning>ISO 2022-84 (Portuguese)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>94</Value>
+		<Meaning>ISO 2022-60 (Norway)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>95</Value>
+		<Meaning>ISO/IEC 646-121(Canada)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>96</Value>
+		<Meaning>ISO/IEC 646-122(Canada)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>97</Value>
+		<Meaning>ISO/IEC 646-207(Ireland)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>98</Value>
+		<Meaning>ISO/IEC 646-14(Japan)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Code Page</RefKey>
+		<Value>99</Value>
+		<Meaning>ISO/IEC 646-57(China)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>0</Value>
+		<Meaning>300</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>1</Value>
+		<Meaning>600</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>2</Value>
+		<Meaning>1200</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>3</Value>
+		<Meaning>2400</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>4</Value>
+		<Meaning>4800</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>5</Value>
+		<Meaning>9600</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>6</Value>
+		<Meaning>19200</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>7</Value>
+		<Meaning>38400</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>8</Value>
+		<Meaning>57600</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>9</Value>
+		<Meaning>115200</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>10</Value>
+		<Meaning>230400</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>11</Value>
+		<Meaning>460800</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Baud Rate</RefKey>
+		<Value>12</Value>
+		<Meaning>921600</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>0</Value>
+		<Meaning>RS232</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>2</Value>
+		<Meaning>IBM PS2</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>3</Value>
+		<Meaning>IBM PC-AT and compatibles</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>51</Value>
+		<Meaning>RS485 Retail </Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>124</Value>
+		<Meaning>USB PC keyboard</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>125</Value>
+		<Meaning>USB MAC keyboard</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>128</Value>
+		<Meaning>IBM USB OEM POS Handheld (SurePos)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>129</Value>
+		<Meaning>IBM USB POS Tabletop (SurePos)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>130</Value>
+		<Meaning>USB COM port emulation (CDC ACM)</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>131</Value>
+		<Meaning>USB HID POS</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>134</Value>
+		<Meaning>USB Japanese keyboard</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Terminal ID</RefKey>
+		<Value>136</Value>
+		<Meaning>Metrologic UART</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>0</Value>
+		<Meaning>Manual/Serial Trigger</Meaning>
+		<MeaningCh>手动/指令触发</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>1</Value>
+		<Meaning>Automatic Trigger</Meaning>
+		<MeaningCh>自动触发</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>2</Value>
+		<Meaning>Manual Trigger, Low Power</Meaning>
+		<MeaningCh>手动触发，低功耗</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>3</Value>
+		<Meaning>Presentation Mode</Meaning>
+		<MeaningCh>感应模式</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>4</Value>
+		<Meaning>Scan Stand Mode</Meaning>
+		<MeaningCh>支架感应模式</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>5</Value>
+		<Meaning>HHP Tigger Mode 5</Meaning>
+		<MeaningCh>触发模式5</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>6</Value>
+		<Meaning>HHP Tigger Mode 6</Meaning>
+		<MeaningCh>触发模式6</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>HHP Tigger Mode</RefKey>
+		<Value>8</Value>
+		<Meaning>Streaming Presentation Mode</Meaning>
+		<MeaningCh>流动感应模式</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Decode Window Mode</RefKey>
+		<Value>0</Value>
+		<Meaning>The full image is used</Meaning>
+		<MeaningCh>禁用</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Decode Window Mode</RefKey>
+		<Value>1</Value>
+		<Meaning>Some part in the defined area</Meaning>
+		<MeaningCh>部分在解码框内可读</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Decode Window Mode</RefKey>
+		<Value>2</Value>
+		<Meaning>some part in the aimer area</Meaning>
+		<MeaningCh>部分在瞄准线区域内可读</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Decode Window Mode</RefKey>
+		<Value>3</Value>
+		<Meaning>Totally contained in the defined area</Meaning>
+		<MeaningCh>全部包含在解码框内可读</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Snap Led</RefKey>
+		<Value>0</Value>
+		<Meaning>LEDs off</Meaning>
+		<MeaningCh>关闭 LED 照明</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Snap Led</RefKey>
+		<Value>1</Value>
+		<Meaning>LEDs on</Meaning>
+		<MeaningCh>打开 LED 照明</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Snap Led</RefKey>
+		<Value>2</Value>
+		<Meaning>LEDs on (2)</Meaning>
+		<MeaningCh>打开 LED 照明(2)</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Snap Style</RefKey>
+		<Value>0</Value>
+		<Meaning>Decoding Style</Meaning>
+		<MeaningCh>条码阅读模式</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Snap Style</RefKey>
+		<Value>1</Value>
+		<Meaning>Photo Style</Meaning>
+		<MeaningCh>照片模式</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Snap Style</RefKey>
+		<Value>2</Value>
+		<Meaning>Manual Style</Meaning>
+		<MeaningCh>手动模式</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Data Format Mode</RefKey>
+		<Value>0</Value>
+		<Meaning>Data formatting disabled. Prefixes and suffixes are handled independently.</Meaning>
+		<MeaningCh>数据格式禁止，前/后缀独立处理</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Data Format Mode</RefKey>
+		<Value>1</Value>
+		<Meaning>Data formatting enabled. Prefixes and suffixes are handled independently.</Meaning>
+		<MeaningCh>数据格式允许，前/后缀独立处理</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Data Format Mode</RefKey>
+		<Value>2</Value>
+		<Meaning>Data formatting required. Prefixes and suffixes are handled independently.</Meaning>
+		<MeaningCh>数据格式必须，前/后缀独立处理</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Data Format Mode</RefKey>
+		<Value>3</Value>
+		<Meaning>Data formatting enabled. Prefixes and suffixes will not be applied if a data format is found for a particular symbol.</Meaning>
+		<MeaningCh>数据格式允许，单独设定数据格式的码制不加前/后缀</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Data Format Mode</RefKey>
+		<Value>4</Value>
+		<Meaning>Data formatting required. Prefixes and suffixes will not be applied if a data format is found for a particular symbol.</Meaning>
+		<MeaningCh>数据格式必须，单独设定数据格式的码制不加前/后缀</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>OCR Enable Type</RefKey>
+		<Value>0</Value>
+		<Meaning>OCR Off</Meaning>
+		<MeaningCh>关闭 OCR 识别</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>OCR Enable Type</RefKey>
+		<Value>1</Value>
+		<Meaning>OCR-A On</Meaning>
+		<MeaningCh>OCR-A 打开</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>OCR Enable Type</RefKey>
+		<Value>2</Value>
+		<Meaning>OCR-B On</Meaning>
+		<MeaningCh>OCR-B 打开</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>OCR Enable Type</RefKey>
+		<Value>3</Value>
+		<Meaning>U.S. Currency On</Meaning>
+		<MeaningCh>U.S. Currency 打开</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>OCR Enable Type</RefKey>
+		<Value>4</Value>
+		<Meaning>MICR E-13B On</Meaning>
+		<MeaningCh>MICR E-13B 打开</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>OCR Enable Type</RefKey>
+		<Value>5</Value>
+		<Meaning>SEMI Font On</Meaning>
+		<MeaningCh>SEMI Font 打开</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RTS CTS Enable Mode</RefKey>
+		<Value>0</Value>
+		<Meaning>Disabled</Meaning>
+		<MeaningCh>禁用</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RTS CTS Enable Mode</RefKey>
+		<Value>1</Value>
+		<Meaning>Device transmitter flow control without timeout</Meaning>
+		<MeaningCh>设备端发送，无超时</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RTS CTS Enable Mode</RefKey>
+		<Value>2</Value>
+		<Meaning>Two direction flow control</Meaning>
+		<MeaningCh>双向控制</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RTS CTS Enable Mode</RefKey>
+		<Value>3</Value>
+		<Meaning>Device transmitter flow control with timeout</Meaning>
+		<MeaningCh>设备端发送，有超时</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RTS CTS Enable Mode</RefKey>
+		<Value>4</Value>
+		<Meaning>Honeywell Bioptic flow control</Meaning>
+		<MeaningCh>Honeywell Bioptic 流控</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RTS CTS Enable Mode</RefKey>
+		<Value>5</Value>
+		<Meaning>CTS controlled scan enable / disable</Meaning>
+		<MeaningCh>CTS 控制允许/禁止扫描</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RTS CTS Enable Mode</RefKey>
+		<Value>6</Value>
+		<Meaning>RTS pulse on trigger release</Meaning>
+		<MeaningCh>触发按钮松开时发送 RTS 脉冲</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>0</Value>
+		<Meaning>None, 7, 1</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>1</Value>
+		<Meaning>None, 7, 2</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>2</Value>
+		<Meaning>None, 8, 1</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>3</Value>
+		<Meaning>Even, 7, 1</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>4</Value>
+		<Meaning>Even, 7, 2</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>5</Value>
+		<Meaning>Even, 8, 1</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>6</Value>
+		<Meaning>Odd, 7, 1</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>7</Value>
+		<Meaning>Odd, 7, 2</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>8</Value>
+		<Meaning>Odd, 8, 1</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>RS232 Communication Parameters</RefKey>
+		<Value>14</Value>
+		<Meaning>14</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>0</Value>
+		<Meaning>KIM</Meaning>
+		<MeaningCh>KIM</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>1</Value>
+		<Meaning>TIFF Binary</Meaning>
+		<MeaningCh>TIFF，黑白</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>2</Value>
+		<Meaning>TIFF Binary Group 4 Compression</Meaning>
+		<MeaningCh>TIFF，黑白，压缩</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>3</Value>
+		<Meaning>TIFF Grey Scale</Meaning>
+		<MeaningCh>TIFF，灰度</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>4</Value>
+		<Meaning>Uncompressed Binary</Meaning>
+		<MeaningCh>未压缩，黑白</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>5</Value>
+		<Meaning>Uncompressed Grey Scale</Meaning>
+		<MeaningCh>未压缩，灰度</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>6</Value>
+		<Meaning>JPG</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>7</Value>
+		<Meaning>Outline image</Meaning>
+		<MeaningCh>轮廓图像</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>8</Value>
+		<Meaning>BMP</Meaning>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>9</Value>
+		<Meaning>Lossless Huffman</Meaning>
+		<MeaningCh>霍夫曼无损压缩</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>10</Value>
+		<Meaning>TIFF Color Compressed</Meaning>
+		<MeaningCh>TIFF，彩色，压缩</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>11</Value>
+		<Meaning>TIFF Color</Meaning>
+		<MeaningCh>TIFF，彩色</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>12</Value>
+		<Meaning>JPG Color</Meaning>
+		<MeaningCh>JPG，彩色</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>13</Value>
+		<Meaning>Uncompressed Color</Meaning>
+		<MeaningCh>未压缩。彩色</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>14</Value>
+		<Meaning>BMP Color</Meaning>
+		<MeaningCh>位图，彩色</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Image Format</RefKey>
+		<Value>15</Value>
+		<Meaning>Uncompressed RAW</Meaning>
+		<MeaningCh>未压缩原始数据</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>On Off Required</RefKey>
+		<Value>0</Value>
+		<Meaning>Off</Meaning>
+		<MeaningCh>关闭</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>On Off Required</RefKey>
+		<Value>1</Value>
+		<Meaning>On/Not Required</Meaning>
+		<MeaningCh>打开/不是必须</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>On Off Required</RefKey>
+		<Value>2</Value>
+		<Meaning>Required</Meaning>
+		<MeaningCh>必须</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Video Reversal</RefKey>
+		<Value>0</Value>
+		<Meaning>Video Reverse Off</Meaning>
+		<MeaningCh>关闭反转功能</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Video Reversal</RefKey>
+		<Value>1</Value>
+		<Meaning>Video Reverse Only</Meaning>
+		<MeaningCh>只读反转条码</MeaningCh>
+	</ValueReference>
+	<ValueReference>
+		<RefKey>Video Reversal</RefKey>
+		<Value>2</Value>
+		<Meaning>Video Reverse and Standard Barcodes</Meaning>
+		<MeaningCh>可读反转和正常条码</MeaningCh>
+	</ValueReference>
+</DevInfo>

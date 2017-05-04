@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes"?>
+<xs:schema id="DevInfo" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+  <xs:element name="DevInfo" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DevSettings">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="FullTag" type="xs:string" minOccurs="0" />
+              <xs:element name="Tag" type="xs:string" minOccurs="0" />
+              <xs:element name="Group" type="xs:string" minOccurs="0" />
+              <xs:element name="MergeIntoTag" type="xs:string" minOccurs="0" />
+              <xs:element name="MajorName" type="xs:string" minOccurs="0" />
+              <xs:element name="MajorNameCh" type="xs:string" minOccurs="0" />
+              <xs:element name="FullName" type="xs:string" minOccurs="0" />
+              <xs:element name="FullNameCh" type="xs:string" minOccurs="0" />
+              <xs:element name="Prefix" type="xs:string" minOccurs="0" />
+              <xs:element name="Type" type="xs:string" minOccurs="0" />
+              <xs:element name="Visibility" type="xs:string" minOccurs="0" />
+              <xs:element name="Active" type="xs:boolean" minOccurs="0" />
+              <xs:element name="Current" type="xs:string" minOccurs="0" />
+              <xs:element name="Default" type="xs:string" minOccurs="0" />
+              <xs:element name="Values" type="xs:string" minOccurs="0" />
+              <xs:element name="ValueRefKey" type="xs:string" minOccurs="0" />
+              <xs:element name="New" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="ValueReference">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="RefKey" type="xs:string" minOccurs="0" />
+              <xs:element name="Value" type="xs:string" minOccurs="0" />
+              <xs:element name="Meaning" type="xs:string" minOccurs="0" />
+              <xs:element name="MeaningCh" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
